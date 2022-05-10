@@ -1,0 +1,17 @@
+.divClass h1{
+  color: hotpink
+}
+.divClass #spanId {
+  font-size: 18px
+  margin: 50px
+}
+#thirdDiv {
+  height: 600px
+  width: 500px
+  backround-color: pink
+  padding: 50px
+  border: 5px hotpink
+}
+#thirdDiv ul li img {
+  width: 400px
+}
